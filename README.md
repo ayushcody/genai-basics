@@ -19,12 +19,13 @@ You only need basic programming knowledge (any language). The code examples use 
 3. [RAG: connecting models to your own data](docs/03-rag.md)
 4. [Agents and tools: from chatbot to system](docs/04-agents-and-tools.md)
 5. [Evaluation and safety: knowing whether it works](docs/05-evaluation-and-safety.md)
-6. [Glossary and further resources](docs/06-glossary-and-resources.md)
+6. [Fine-tuning: teaching the model new behavior](docs/06-fine-tuning.md)
+7. [Glossary and further resources](docs/07-glossary-and-resources.md)
 
 Runnable examples live in [examples/](examples/).
 
 ## Suggested path
 
-Read the chapters in order the first time. Each one builds on the previous: prompting makes more sense once you know how generation works, RAG is a prompting technique at its core, agents combine tools with prompting, and evaluation wraps around all of it.
+Read the chapters in order the first time. Each one builds on the previous: prompting makes more sense once you know how generation works, RAG is a prompting technique at its core, agents combine tools with prompting, evaluation wraps around all of it, and fine-tuning builds on everything before it.
 
 After reading, run the examples in [examples/](examples/) and modify them. Changing a working example teaches faster than reading another chapter.
